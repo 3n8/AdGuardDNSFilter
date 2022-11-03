@@ -1,0 +1,43 @@
+!
+! Title: AdGuard DNS filter
+! Homepage: https://github.com/3n8/AdGuardDNSFilter
+!
+! Source name: AdGuard Base filter ad servers
+! Source: https://github.com/3n8/AdGuardDNSFilter/adservers.txt
+!
+! Good: ||doubleclick.net^$third-party
+! Bad: /banner.jpg (should be in general_url.txt)
+! Bad: ||adssubdomain.legitwebsite.com^ (should be in adservers_firstparty.txt)
+!
+!
+!
+/annonsorinnhold
+!
+||advertisement.vg.no^
+||ads.vg.no^
+||advert.vg.no^
+||advertisement.vg.no^
+||imbo.vgc.no^
+||imbo.vgc.no^
+
+! Tracking
+||brandmetrics.com^
+||cdn.brandmetrics.com^
+||norstatsurveys.com^
+||privacy.schibsted.com^
+||widget.tippebannere.no^
+
+! login
+||id.bt.no
+||id.tek.no
+||id.vg.no
+
+! consent
+||cmp.bt.no^
+||cmp.finn.no^
+||cmp.tek.no^
+||cmp.vg.no^
+||consent.youtube.com^
+
+||imbo.vgc.no^
+||imbo.vgc.no^
