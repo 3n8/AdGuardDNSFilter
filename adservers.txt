@@ -10,34 +10,32 @@
 ! Bad: ||adssubdomain.legitwebsite.com^ (should be in adservers_firstparty.txt)
 !
 !
-!
+! Avertisement
 /annonsorinnhold
 !
 ||advertisement.vg.no^
 ||ads.vg.no^
 ||advert.vg.no^
+||vg.no/annonsorinnhold^
 ||advertisement.vg.no^
 ||imbo.vgc.no^
 ||imbo.vgc.no^
-
+!
 ! Tracking
 ||brandmetrics.com^
 ||cdn.brandmetrics.com^
 ||norstatsurveys.com^
 ||privacy.schibsted.com^
 ||widget.tippebannere.no^
-
+!
 ! login
 ||id.bt.no
 ||id.tek.no
 ||id.vg.no
-
+!
 ! consent
 ||cmp.bt.no^
 ||cmp.finn.no^
 ||cmp.tek.no^
 ||cmp.vg.no^
 ||consent.youtube.com^
-
-||imbo.vgc.no^
-||imbo.vgc.no^
