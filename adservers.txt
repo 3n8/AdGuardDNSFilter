@@ -16,6 +16,7 @@
 ||ads.vg.no^
 ||advert.vg.no^
 ||vg.no/annonsorinnhold^
+||vgc.no/drfront3^
 ||advertisement.vg.no^
 ||imbo.vgc.no^
 ||imbo.vgc.no^
