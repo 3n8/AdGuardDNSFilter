@@ -12,11 +12,11 @@
 !
 ! Avertisement
 !
-#||akamai.vgc.no
+!
 ||advertisement.vg.no^
 ||ads.vg.no^
 ||advert.vg.no^
-||akamai.vgc.no
+#||akamai.vgc.no
 ||vg.no/annonsorinnhold^
 ||vgc.no/drfront3^
 ||advertisement.vg.no^
