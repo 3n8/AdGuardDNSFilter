@@ -12,6 +12,7 @@
 !
 ! Avertisement
 !
+#||akamai.vgc.no
 ||advertisement.vg.no^
 ||ads.vg.no^
 ||advert.vg.no^
